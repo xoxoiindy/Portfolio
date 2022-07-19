@@ -29,6 +29,7 @@
     "usemin-cli": "^0.6.0"
   },
   "dependencies": {
+    "@formspree/react": "^2.3.0",
     "@popperjs/core": "^2.11.5",
     "bootstrap": "^4.5.2",
     "bootstrap-social": "^5.1.1",
